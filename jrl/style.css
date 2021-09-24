@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.class1{
+    max-width: 80%;
+  
+margin: auto;
+}
+.class1 h3,p{
+    text-align: center;
+}
+input,textarea{
+    width: 80%;
+
+}
+.bt{
+    color: darkblue;
+}
+.imgg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.6;
+}
+.sub{
+    color: darkmagenta;
+}
